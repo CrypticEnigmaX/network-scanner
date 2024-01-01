@@ -1,4 +1,4 @@
-🚀 CrypticEnigmax Port Scanner 🛡️
+🚀 CrypticEnigmaX Port Scanner 🛡️
 
 A beginner-friendly Python tool for scanning open ports on a target system. Built by CrypticEnigmax, this lightweight port scanner is designed to provide a foundational understanding of network security.
 
