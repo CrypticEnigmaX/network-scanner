@@ -1,7 +1,7 @@
-::import socket
+import socket
 import termcolor
 
-# Created by CrypticEnigmax
+
 
 def scan(ip_addr, ports):
     print(termcolor.colored('\nStarted Scanning For ' + str(ip_addr), 'red', attrs=['bold', 'underline']))
@@ -18,7 +18,6 @@ def port_scan(ip_addr, port):
     except socket.error:
         pass
 
-# Display an introductory message with your name
 print(termcolor.colored("Welcome to the CrypticEnigmaX Port Scanner!", 'cyan', attrs=['bold']))
 print(termcolor.colored("This tool is developed by CrypticEnigmaX for scanning ports.", 'cyan'))
 
